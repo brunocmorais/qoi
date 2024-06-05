@@ -1,0 +1,8 @@
+{
+  "name": "qoi",
+  "version": "1.0.0",
+  "type": "module",
+  "author": "Bruno Morais",
+  "license": "MIT",
+  "description": "Simple QOI (Quite OK Image Format) from/to RGBA8888 encoder and decoder."
+}
